@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form method="get" action="home">
+	<form method="get" action="/home">
 		<input type="text" name="aid"/>
 		<input type="text" name="aname" />
 		<input type="submit" value="OK" />
